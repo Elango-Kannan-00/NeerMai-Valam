@@ -184,7 +184,7 @@ As part of this project, I contributed to the following:
 |---|---|
 | Dhanushiya Srinivasan | Project Lead & Venture developement |
 | Aiswarya Saravanan | Software development & Venture development |
-| **Elango K** | Hardware Integration & Prototype Development |
+| **Elango Kannan** | Hardware Integration & Prototype Development |
 | Harini Madheswaran | Hardware Integration & Prototype Development |
 
 # Project Outcomes
