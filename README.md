@@ -153,7 +153,7 @@ The system automatically calculates each household's daily water allocation base
 
 # Challenges Faced
 
-- Calibrating the ultrasonic sensor for accurate readings
+- Calibrating the flow meter readings, ultrasonic sensor for accurate readings
 - GPIO interfacing issues during initial setup
 - Achieving stable and consistent flow meter readings
 - Fine-tuning valve open/close timing
