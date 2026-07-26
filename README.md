@@ -1,9 +1,5 @@
 # NeerMai Valam 
 
-<p align="center">
-  <img src="images/logo.png" alt="NeerMai Valam Logo" width="180"/>
-</p>
-
 ## IoT Enabled Equitable Water Distribution and Monitoring System for Sustainable Rural Water Management
 
 # Project Overview
